@@ -1,0 +1,5 @@
+icao,flight_name,co2,nox,contrails,total,reduction
+W95729,Current Flight,23 T CO2e,5 T CO2e,9 T CO2e,37 T CO2e,
+W95729,Smart Flight,25 T CO2e,6 T CO2e,0 T CO2e,31 T CO2e,16%
+X32263,Current Flight,42 T CO2e,43 T CO2e,21 T CO2e,54 T CO2e,
+X32263,Smart Flight,12 T CO2e,52 T CO2e,0 T CO2e,23 T CO2e,42%
