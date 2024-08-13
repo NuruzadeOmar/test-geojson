@@ -1,0 +1,6 @@
+﻿icao,Distance,ETE,ETA (EDT),Current Climate Impact,Possible Net Climate Impact,ETD,Departure,Destination,Aircraft,Engine
+TRA32A,749 nm, 2h00m,"May 29, 2024 23:32 CEST",135 T CO2e,44 T CO2e,"May 29, 2024 21:31 CEST",EHAM - Amsterdam Airport Schiphol,LEBL - Barcelona-El Prat Airport,Boeing 737-7K2,CFM International CFM56-7B
+TRA9B,1508 nm, 2h29m,"May 29, 2024 23:16 CEST",245 T CO2e,112 T CO2e,"May 29, 2024 20:47 CEST",LEMG - Málaga-Costa del Sol Airport,EBBR - Brussels Airport,Boeing 737-8K2,CFM International CFM56-7B
+TRA951M,1605 nm, 2h41m,"May 29, 2024 20:45 CEST",148 T CO2e,72 T CO2e,"May 29, 2024 17:56 CEST",EHAM - Amsterdam Airport Schiphol,LPPT - Lisbon Portela Airport,Boeing 737-8K2,CFM International CFM56-7B
+TRA3L,1317 nm, 2h21m,"May 29, 2024 19:37 CEST",149 T CO2e,32 T CO2e,"May 29, 2024 16:47 CEST",LEIB - Ibiza Airport,EHAM - Amsterdam Airport Schiphol,Boeing 737-8K2,CFM International CFM56-7B
+TRA6731,1609 nm, 2h22m,"May 29, 2024 23:49 CEST",179 T CO2e,69 T CO2e,"May 29, 2024 21:19 CEST",EHAM - Amsterdam Airport Schiphol,LEZL - Seville Airport,Boeing 737-8K2,CFM International CFM56-7B
